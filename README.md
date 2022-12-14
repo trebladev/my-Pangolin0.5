@@ -1,3 +1,9 @@
+# my-pangolin-0.5 
+
+this is a fork of pangolin v0.5 
+
+This lib restore some bugs of ffmpeg, it can compile successfully on ubuntu 20 and deepin 20.7
+
 What is Pangolin {#mainpage}
 ====================================
 
